@@ -1,6 +1,8 @@
 //your JS code here. If required.
 let student = {
-	name : "Mudassir alam"
+	name : "Mudassir alam",
+	age : 23, 
+	isLoggedIn : true
 }
 function getKeys(obj) {
 	return Object.keys(obj)
